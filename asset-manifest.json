@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/snap-connect/static/css/main.4b46c8b8.css",
+    "main.js": "/snap-connect/static/js/main.b8bb1295.js",
+    "static/js/787.9a64e31c.chunk.js": "/snap-connect/static/js/787.9a64e31c.chunk.js",
+    "index.html": "/snap-connect/index.html",
+    "main.4b46c8b8.css.map": "/snap-connect/static/css/main.4b46c8b8.css.map",
+    "main.b8bb1295.js.map": "/snap-connect/static/js/main.b8bb1295.js.map",
+    "787.9a64e31c.chunk.js.map": "/snap-connect/static/js/787.9a64e31c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b46c8b8.css",
+    "static/js/main.b8bb1295.js"
+  ]
+}
